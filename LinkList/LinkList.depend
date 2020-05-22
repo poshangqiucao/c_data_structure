@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589801194 source:c:\users\cg\desktop\c_data_struct\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

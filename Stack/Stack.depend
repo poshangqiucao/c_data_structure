@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590113702 source:c:\users\cg\desktop\c_data_struct\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

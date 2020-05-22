@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590131419 source:c:\users\cg\desktop\c_data_struct\linkqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
